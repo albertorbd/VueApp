@@ -1,0 +1,39 @@
+@import './base.css';
+
+a,
+.green {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(355, 99%, 28%, 0.2);
+  }
+}
+
+@media (min-width: 1024px) {
+  nav {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+  }
+  .enlace_nav {
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 1024px) {
+  nav {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+  }
+  .enlace_nav {
+    padding-right: 15px;
+  }
+}

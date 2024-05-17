@@ -1,0 +1,20 @@
+{
+  "Categoriah1": "Liste des catégories",
+  "BorrarCategoria": "Supprimer",
+  "CategoryName": "Nom",
+  "CreationDate": "Date de creation",
+  "CategoriesChartTittle": "Catégories créées la semaine dernière",
+  "SitesTittle": "Liste des sites",
+  "SitesChartTittle": "Sites créés la semaine dernière",
+  "AddCategory": "Ajouter une catégorie",
+  "Add": "Ajouter",
+  "AddSite": "Ajouter un site",
+  "URL": "URL",
+  "User": "Utilisateur",
+  "Pass": "Mot de passe",
+  "Description": "Description",
+  "Categoria": "Catégorie:",
+  "SelectCategory": "Choisir une catégorie",
+  "Search": "Chercher",
+  "Sitio": "Lieu"
+}
